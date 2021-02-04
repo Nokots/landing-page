@@ -1,0 +1,9 @@
+.container .cards{
+    width: 900px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.container h2 {
+    text-align: center;
+}

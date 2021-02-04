@@ -1,0 +1,13 @@
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: #FCFAE1;
+    width: 200px;
+    box-shadow: 0 0 5px rgb(230 230 230);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
